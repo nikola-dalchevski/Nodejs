@@ -1,0 +1,5 @@
+npm can have two types of packages
+- dependencies that ower application depend on them
+npm install express --save
+-dependencies that are needed for developing proccess
+npm install nodemon --save-dev

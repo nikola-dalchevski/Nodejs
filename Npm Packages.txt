@@ -1,0 +1,1 @@
+slygify - its used to show replace query parameters in url wiht some fensy string
