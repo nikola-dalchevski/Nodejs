@@ -1,0 +1,5 @@
+node js use google chrom v8 engine
+node js use libuv to comminicate with the computer file sistem networting and 
+event loop and the threed pool
+
+v8 is writen in javascript and c++ and libuv is written in c++

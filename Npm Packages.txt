@@ -1,1 +1,14 @@
 slygify - its used to show replace query parameters in url wiht some fensy string
+nodemon - its used to reload server on save
+superagent - for making http requests like axios
+
+1.11.3 first is major version, second is minior version , third is the pathch version
+patch version is used only to fix bags
+minior version is to add new fitures in packages/ will not brake our code
+major version will be big change and may brake our code
+^this simbol is default and specifies that we accept minior changes
+~this simbol will only accept patch releses
+*this simbol will accept all changes
+
+npm outdated to see new versions of the packages that you have installed
+npm install package@1.0.0 to specify the version 

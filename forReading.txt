@@ -1,0 +1,4 @@
+1 promises with then and without
+2 see about async programming in javascript in details
+3 how the internet works definitions all to know
+4 see about node js event loop and how it works
