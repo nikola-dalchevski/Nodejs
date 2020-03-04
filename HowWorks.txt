@@ -1,0 +1,30 @@
+1. Client - an aplication such Chrom or FIrefox that runs on computer and is connected
+to the internet. Its primary rolw is to take user iteractionjs and translate them into request
+to another computer called a web server. Evry client computer has a unique IP address.
+
+
+2 Server - is a mashine connected to internet and also has na ip address . server waits for requests from
+other mashines and reponds to them.
+
+3. Ip address - Internet Protocol address . numerical identifier for a device on a TCP/IP network.
+
+4.ISP. - Internet Service Provider. isp is the middle man between the client and servers. like cable company.
+ISP job is to do a DNS lookup to ask what IP address the site you're trying to visit is vonfigured to.
+
+5. DNS - Domain Name System. A distributed database whick keeps track of computer's domain names and their
+ corredponding IP addresses on internet
+
+6. Domain Name - used to identify one or more IP addresses . www.something.com
+
+7. TCP/IP Transmition Control Protocol/Internet Protocol. most widely used protocol. Protocol means set of
+rules to do something.
+
+8. Port Number - A 16 bit integer that indentifies a specific port on a server and its always associated with IP address.
+
+9. Host - A compouter connected to a network - it can be client, server, or any other type of device. every
+host ahs a unique Ip address.
+
+10. HTTP: Hyper-text Transfer Protocol - protocol that web browsers and web servers use to commiunicate with each other. 
+
+11. URL: Uniform Resource Locators. URLs identify a particular web resource. https://something/some
+it contains protocol - https host name - github and file name - some
